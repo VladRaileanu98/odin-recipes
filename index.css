@@ -1,0 +1,38 @@
+/* 
+div.bold-text {
+    font-weight: bold; 
+    color: red;
+    height: 200px;
+}
+
+
+body{
+    background-color: white;
+}
+
+.alert-text{
+    color: red;
+}
+
+#title{
+    background-color: red;
+}
+
+.read,
+.unread {
+  color: white;
+  background-color: black;
+}
+
+.subsection.header {
+    color: red;
+  }
+  
+  .subsection#preview {
+    color: blue;
+  }
+  
+  p{
+    color:rgb(100,0,127);
+    font-family: 'Times New Roman', sans-serif;
+  } */
